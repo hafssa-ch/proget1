@@ -14,4 +14,4 @@ Option	Fonctionnalité	Description
 4	Maximum	Recherche du plus grand nombre parmi plusieurs valeurs
 0	Quitter	Permet de terminer le programme
 
-![image alt](
+![image alt](https://github.com/hafssa-ch/proget1/blob/main/TP1.PNG?raw=true)
